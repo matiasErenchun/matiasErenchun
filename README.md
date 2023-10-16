@@ -1,5 +1,4 @@
-### Hi there 👋
-
+  ### Hi there, my name is Matias Erenchun and i would like to tell you a few things about myself 👋
 - 📚 I’m currently finishing my studies in computer engineering 🏫.
 - 🦅 I’m currently working on a project to identify birds of prey 🦉.
 - 🎢 I’m currently studying more about C#, docker, python and Tensorflow 🛝.
